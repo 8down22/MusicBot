@@ -1,4 +1,4 @@
 token=HON1bjlKWeJkL321CuSSZtMclhz_1bnX
 owner=307242725047140353
 prefix=em
-stayinchannel=true
+stayinchannel=
