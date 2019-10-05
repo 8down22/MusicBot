@@ -1,4 +1,4 @@
-token=NTE0ODc5NjM2MTY2MTQ4MTAy.Dztoqg.fvxozahlq6wzp4yv0pYn0VrxhqE
-owner=391306171278950401
-prefix=st
+token=HON1bjlKWeJkL321CuSSZtMclhz_1bnX
+owner=307242725047140353
+prefix=em
 stayinchannel=true
